@@ -1,3 +1,6 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
+VeroBroc_Index:
+  path: /
+  controller: App\Controller\VerobrocController::index
